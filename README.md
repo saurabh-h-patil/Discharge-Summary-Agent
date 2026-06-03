@@ -191,7 +191,7 @@ A stand-in "doctor" with 8 consistent, hidden editing policies:
 - Works with any LLM — no fine-tuning infrastructure needed
 - Cold-start friendly — even 1-2 corrections help immediately
 - Safety-preserving — corrections are additive, never remove Part 1 safety guardrails
-- Interpretable — every learned rule is human-readable
+- Interpretable — every human-readable rule can be audited
 - No catastrophic forgetting risk
 
 ### 4. Limitations & Safety Discussion
@@ -265,6 +265,3 @@ A stand-in "doctor" with 8 consistent, hidden editing policies:
 ---
 
 *Built for the Dscribe (Unriddle Technologies) AI Engineer take-home assignment.*
-
-#   D i s c h a r g e - S u m m a r y - A g e n t  
- 

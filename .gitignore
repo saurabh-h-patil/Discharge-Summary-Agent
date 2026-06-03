@@ -1,0 +1,33 @@
+# Environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output
+output/
+uploads/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Extracted temp files
+*.txt
+!requirements.txt
+
+# PDF extractions temp
+extract_pdf.py
